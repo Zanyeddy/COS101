@@ -2,3 +2,8 @@ course_code = "COS101"
 print(course_code[2:4])
 print(course_code[3:5])
 print(course_code[0:6:3])
+print(course_code.upper())
+print(course_code.lower())
+print(course_code.strip())
+print(course_code.title())
+print(course_code.replace("101", "102"))
